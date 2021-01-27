@@ -1,0 +1,100 @@
+Application path: /livechat/php/app.php?operator-is-online
+2020-07-29 10:45:36 [error] SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+Stack trace:
+/home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/service/Database.php:50 (Logger:error())
+/home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/service/Database.php:68 (Database:connect())
+/home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/service/Database.php:28 (Database:reconnect())
+/home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/lib/Service.php:17 (Database:onRegister())
+/home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/lib/ServiceContainer.php:55 (Service:setServiceContainer())
+/home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/lib/Model.php:20 (ServiceContainer:get())
+/home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/model/UserModel.php:517 (Model:__construct())
+/home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/controller/OperatorController.php:356 (UserModel:repo())
+/home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/app/Application.php:165 (OperatorController:isOnlineAction())
+/home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/app/Application.php:89 (Application:runAction())
+/home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/app.php:27 (Application:run())
+
+2020-07-29 10:45:36 [error] Trying to use database with an invalid connection.
+Stack trace:
+/home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/service/ExceptionHandler.php:23 (Logger:error())
+/home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/app/Application.php:180 (ExceptionHandler:createResponse())
+/home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/app/Application.php:89 (Application:runAction())
+/home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?department-online
+2020-07-29 10:45:36 [error] SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+Stack trace:
+/home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/service/Database.php:50 (Logger:error())
+/home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/service/Database.php:68 (Database:connect())
+/home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/service/Database.php:28 (Database:reconnect())
+/home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/lib/Service.php:17 (Database:onRegister())
+/home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/lib/ServiceContainer.php:55 (Service:setServiceContainer())
+/home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/lib/Model.php:20 (ServiceContainer:get())
+/home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/model/DepartmentModel.php:26 (Model:__construct())
+/home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/controller/DepartmentController.php:188 (DepartmentModel:repo())
+/home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/app/Application.php:165 (DepartmentController:getOnlineAction())
+/home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/app/Application.php:89 (Application:runAction())
+/home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/app.php:27 (Application:run())
+
+2020-07-29 10:45:36 [error] Trying to use database with an invalid connection.
+Stack trace:
+/home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/service/ExceptionHandler.php:23 (Logger:error())
+/home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/app/Application.php:180 (ExceptionHandler:createResponse())
+/home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/app/Application.php:89 (Application:runAction())
+/home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?install-wizard-2
+2020-07-29 10:49:12 [error] SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+Stack trace:
+/home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/service/Database.php:50 (Logger:error())
+/home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/service/Database.php:68 (Database:connect())
+/home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/service/Database.php:28 (Database:reconnect())
+/home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/lib/Service.php:17 (Database:onRegister())
+/home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/lib/ServiceContainer.php:55 (Service:setServiceContainer())
+/home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/lib/Controller.php:33 (ServiceContainer:get())
+/home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/controller/InstallController.php:2 (Controller:get())
+/home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/app/Application.php:165 (InstallController:wizard2Action())
+/home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/app/Application.php:89 (Application:runAction())
+/home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-is-online
+2020-07-29 10:50:14 count(): Parameter must be an array or an object that implements Countable on line 446 in /home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/model/UserModel.php
+Application path: /livechat/php/app.php?operator-is-online
+2020-07-29 19:24:16 count(): Parameter must be an array or an object that implements Countable on line 446 in /home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/model/UserModel.php
+Application path: /livechat/php/app.php?operator-is-online
+2020-07-29 19:24:35 count(): Parameter must be an array or an object that implements Countable on line 446 in /home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/model/UserModel.php
+Application path: /livechat/php/app.php?operator-is-online
+2020-07-29 19:41:02 count(): Parameter must be an array or an object that implements Countable on line 446 in /home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/model/UserModel.php
+Application path: /livechat/php/app.php?operator-is-online
+2020-07-29 19:43:51 count(): Parameter must be an array or an object that implements Countable on line 446 in /home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/model/UserModel.php
+Application path: /livechat/php/app.php?operator-is-online
+2020-07-29 19:44:33 count(): Parameter must be an array or an object that implements Countable on line 446 in /home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/model/UserModel.php
+Application path: /livechat/php/app.php?operator-is-online
+2020-07-29 19:51:30 count(): Parameter must be an array or an object that implements Countable on line 446 in /home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/model/UserModel.php
+Application path: /livechat/php/app.php?guest-get-typing-status
+2020-07-29 21:37:30 [error] SQLSTATE[HY000] [1130] Host 'localhost' is not allowed to connect to this MariaDB server
+Stack trace:
+/home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/service/Database.php:50 (Logger:error())
+/home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/service/Database.php:68 (Database:connect())
+/home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/service/Database.php:28 (Database:reconnect())
+/home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/lib/Service.php:17 (Database:onRegister())
+/home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/lib/ServiceContainer.php:55 (Service:setServiceContainer())
+/home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/lib/Model.php:20 (ServiceContainer:get())
+/home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/model/UserModel.php:517 (Model:__construct())
+/home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/controller/GuestController.php:60 (UserModel:repo())
+/home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/app/Application.php:165 (GuestController:getTypingStatusAction())
+/home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/app/Application.php:89 (Application:runAction())
+/home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/app.php:27 (Application:run())
+
+2020-07-29 21:37:30 [error] SQLSTATE[HY000] [1130] Host 'localhost' is not allowed to connect to this MariaDB server
+Stack trace:
+/home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/service/ExceptionHandler.php:23 (Logger:error())
+/home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/app/Application.php:180 (ExceptionHandler:createResponse())
+/home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/app/Application.php:89 (Application:runAction())
+/home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?widget-theme-style.css
+2020-07-29 22:22:55 include(): Filename cannot be empty on line 46 in /home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/lib/Controller.php
+2020-07-29 22:22:55 include(): Failed opening '' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') on line 46 in /home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/lib/Controller.php
+Application path: /livechat/php/app.php?widget-theme-style.css
+2020-07-29 22:23:04 include(): Filename cannot be empty on line 46 in /home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/lib/Controller.php
+2020-07-29 22:23:04 include(): Failed opening '' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') on line 46 in /home3/greatzm1/livechat.contact-suport-team.xyz/livechat/php/lib/Controller.php

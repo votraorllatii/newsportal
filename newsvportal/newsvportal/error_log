@@ -1,0 +1,82 @@
+[28-Jan-2020 18:02:58 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/includes/config.php on line 6
+[28-Jan-2020 18:02:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/index.php on line 59
+[28-Jan-2020 18:02:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/index.php on line 60
+[28-Jan-2020 18:02:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/index.php on line 64
+[28-Jan-2020 18:02:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/index.php on line 65
+[28-Jan-2020 18:02:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/includes/sidebar.php on line 12
+[28-Jan-2020 18:02:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/includes/sidebar.php on line 13
+[28-Jan-2020 18:02:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/includes/sidebar.php on line 34
+[28-Jan-2020 18:02:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/includes/sidebar.php on line 35
+[28-Jan-2020 18:05:00 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newsvportal'@'localhost' (using password: YES) in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/includes/config.php on line 6
+[28-Jan-2020 18:05:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/index.php on line 59
+[28-Jan-2020 18:05:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/index.php on line 60
+[28-Jan-2020 18:05:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/index.php on line 64
+[28-Jan-2020 18:05:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/index.php on line 65
+[28-Jan-2020 18:05:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/includes/sidebar.php on line 12
+[28-Jan-2020 18:05:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/includes/sidebar.php on line 13
+[28-Jan-2020 18:05:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/includes/sidebar.php on line 34
+[28-Jan-2020 18:05:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/includes/sidebar.php on line 35
+[28-Jan-2020 18:05:08 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'newsvportal'@'localhost' (using password: YES) in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/includes/config.php on line 6
+[28-Jan-2020 18:05:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/index.php on line 59
+[28-Jan-2020 18:05:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/index.php on line 60
+[28-Jan-2020 18:05:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/index.php on line 64
+[28-Jan-2020 18:05:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/index.php on line 65
+[28-Jan-2020 18:05:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/includes/sidebar.php on line 12
+[28-Jan-2020 18:05:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/includes/sidebar.php on line 13
+[28-Jan-2020 18:05:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/includes/sidebar.php on line 34
+[28-Jan-2020 18:05:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/includes/sidebar.php on line 35
+[28-Jan-2020 18:05:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/index.php on line 60
+[28-Jan-2020 18:05:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/index.php on line 65
+[28-Jan-2020 18:05:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/includes/sidebar.php on line 13
+[28-Jan-2020 18:05:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/includes/sidebar.php on line 35
+[28-Jan-2020 18:05:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/index.php on line 60
+[28-Jan-2020 18:05:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/index.php on line 65
+[28-Jan-2020 18:05:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/includes/sidebar.php on line 13
+[28-Jan-2020 18:05:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/includes/sidebar.php on line 35
+[28-Jan-2020 18:05:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/index.php on line 60
+[28-Jan-2020 18:05:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/index.php on line 65
+[28-Jan-2020 18:05:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/includes/sidebar.php on line 13
+[28-Jan-2020 18:05:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/includes/sidebar.php on line 35
+[28-Jan-2020 18:05:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/index.php on line 60
+[28-Jan-2020 18:05:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/index.php on line 65
+[28-Jan-2020 18:05:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/includes/sidebar.php on line 13
+[28-Jan-2020 18:05:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/includes/sidebar.php on line 35
+[28-Jan-2020 18:05:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/index.php on line 60
+[28-Jan-2020 18:05:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/index.php on line 65
+[28-Jan-2020 18:05:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/includes/sidebar.php on line 13
+[28-Jan-2020 18:05:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/includes/sidebar.php on line 35
+[28-Jan-2020 18:06:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/index.php on line 69
+[28-Jan-2020 18:06:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/index.php on line 74
+[28-Jan-2020 18:06:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/includes/sidebar.php on line 13
+[28-Jan-2020 18:06:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/includes/sidebar.php on line 35
+[28-Jan-2020 18:07:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/index.php on line 69
+[28-Jan-2020 18:07:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/index.php on line 74
+[28-Jan-2020 18:07:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/includes/sidebar.php on line 13
+[28-Jan-2020 18:07:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/includes/sidebar.php on line 35
+[28-Jan-2020 18:09:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/index.php on line 69
+[28-Jan-2020 18:09:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/index.php on line 74
+[28-Jan-2020 18:09:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/includes/sidebar.php on line 13
+[28-Jan-2020 18:09:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/includes/sidebar.php on line 35
+[28-Jan-2020 18:09:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/index.php on line 69
+[28-Jan-2020 18:09:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/index.php on line 74
+[28-Jan-2020 18:09:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/includes/sidebar.php on line 13
+[28-Jan-2020 18:09:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/includes/sidebar.php on line 35
+[28-Jan-2020 18:09:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/index.php on line 69
+[28-Jan-2020 18:09:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/index.php on line 74
+[28-Jan-2020 18:09:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/includes/sidebar.php on line 13
+[28-Jan-2020 18:09:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/includes/sidebar.php on line 35
+[28-Jan-2020 18:10:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/index.php on line 69
+[28-Jan-2020 18:10:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/index.php on line 74
+[28-Jan-2020 18:10:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/includes/sidebar.php on line 13
+[28-Jan-2020 18:10:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/includes/sidebar.php on line 35
+[22-Mar-2020 20:56:37 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/greatzm1/livechat.contact-suport-team.xyz/newsvportal/contact-us.php on line 251
+[22-Mar-2020 20:56:45 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/greatzm1/livechat.contact-suport-team.xyz/newsvportal/contact-us.php on line 251
+[22-Mar-2020 20:56:58 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/greatzm1/livechat.contact-suport-team.xyz/newsvportal/contact-us.php on line 251
+[29-May-2020 14:58:04 UTC] PHP Notice:  Undefined index: token in /home/greatzm1/livechat.contact-suport-team.xyz/newsvportal/news-details.php on line 116
+[06-Jul-2020 20:08:46 UTC] PHP Notice:  Undefined index: token in /home3/greatzm1/livechat.contact-suport-team.xyz/newsvportal/news-details.php on line 116
+[06-Jul-2020 20:11:58 UTC] PHP Notice:  Undefined index: token in /home3/greatzm1/livechat.contact-suport-team.xyz/newsvportal/news-details.php on line 116
+[06-Jul-2020 20:14:27 UTC] PHP Notice:  Undefined index: token in /home3/greatzm1/livechat.contact-suport-team.xyz/newsvportal/news-details.php on line 116
+[12-Jul-2020 22:32:11 UTC] PHP Notice:  Undefined index: token in /home3/greatzm1/livechat.contact-suport-team.xyz/newsvportal/news-details.php on line 116
+[17-Jul-2020 07:41:57 UTC] PHP Notice:  Undefined index: token in /home3/greatzm1/livechat.contact-suport-team.xyz/newsvportal/news-details.php on line 116
+[21-Jul-2020 20:22:29 UTC] PHP Notice:  Undefined index: token in /home3/greatzm1/livechat.contact-suport-team.xyz/newsvportal/news-details.php on line 116
+[21-Jul-2020 20:26:59 UTC] PHP Notice:  Undefined index: token in /home3/greatzm1/livechat.contact-suport-team.xyz/newsvportal/news-details.php on line 116

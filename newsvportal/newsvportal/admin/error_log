@@ -1,0 +1,1 @@
+[28-Jan-2020 18:15:20 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/greatzm1/livechat.contact-suport-team.xyz/newsvportal/admin/includes/config.php on line 8
